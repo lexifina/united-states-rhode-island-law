@@ -1584,6 +1584,34 @@
    ]
   },
   {
+   "slug": "chapter-0042-0064-0020",
+   "short": "R.I. Gen. Laws ch. 42-64.20",
+   "title": "General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-64.20: Rebuild Rhode Island Tax Credit",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE42/42-64.20/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260601020721/http://webserver.rilegislature.gov/Statutes/TITLE42/42-64.20/INDEX.HTM",
+     "sha256": "506b9d445bc05cd90ac170202151180ebac093edb2f12ed0f847f999c7833389"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0042-0072-0008",
+   "short": "R.I. Gen. Laws ch. 42-72.8",
+   "title": "General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-72.8: Department of Children, Youth and Families' Higher Education Opportunity Incentive Grant",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE42/42-72.8/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260119113928/http://webserver.rilegislature.gov/Statutes/TITLE42/42-72.8/INDEX.htm",
+     "sha256": "beb7514d28d5505f416a1135d404e5b62839728d3e19dd0cb0d4b5df8e858783"
+    }
+   ]
+  },
+  {
    "slug": "chapter-0042-0166",
    "short": "R.I. Gen. Laws ch. 42-166",
    "title": "General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-166: The Ladders to Licensure Program",
@@ -1594,6 +1622,272 @@
      "units": 4,
      "source_url": "https://web.archive.org/web/20260123055753/https://webserver.rilegislature.gov/Statutes/TITLE42/42-166/INDEX.htm",
      "sha256": "316b1293ed2baffb6bbdbb4b608e86c43c5d769572aa139a73a7b92532960e8b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0002",
+   "short": "R.I. Gen. Laws ch. 44-2",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-2: Tax Officials Generally",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-2/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250625095057/https://webserver.rilegislature.gov/Statutes/TITLE44/44-2/INDEX.HTM",
+     "sha256": "f49e4eee6914d7871baddd318982aa37189ad3236792866a535e5aa9b96ea4c9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0004-0002",
+   "short": "R.I. Gen. Laws ch. 44-4.2",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-4.2: Historic Industrial Building - Tax Deferment",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-4.2/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250625095110/https://webserver.rilegislature.gov/Statutes/TITLE44/44-4.2/INDEX.HTM",
+     "sha256": "c2002e80fc009bf31a4fa04c703a7c688c8eef153985e31e83c7c47ae1a7f3b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0013-0001",
+   "short": "R.I. Gen. Laws ch. 44-13.1",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-13.1: Taxation of Railroad Corporations",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-13.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-02-14",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250625095205/https://webserver.rilegislature.gov/Statutes/TITLE44/44-13.1/INDEX.HTM",
+     "sha256": "3e9803f39d04312abedfb78fbed62eae35e3666a16d9fe17e25bad133b1f10e9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0015",
+   "short": "R.I. Gen. Laws ch. 44-15",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-15: Tax on Bank Deposits Generally",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-15/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250804165020/https://webserver.rilegislature.gov/Statutes/TITLE44/44-15/INDEX.HTM",
+     "sha256": "3479a70566198410317ea4e895d0c1059a7aeed7684f72e0487ec8c1b9d057db"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0017",
+   "short": "R.I. Gen. Laws ch. 44-17",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-17: Taxation of Insurance Companies",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-17/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-08-24",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250804153435/https://webserver.rilegislature.gov/Statutes/TITLE44/44-17/INDEX.HTM",
+     "sha256": "72e2888e9e3ed86a9d34520e2bc632d06de5c09b1f2ed4a6a333cbaf4e76245b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0020-0002",
+   "short": "R.I. Gen. Laws ch. 44-20.2",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-20.2: Little Cigar Tax",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-20.2/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250625095247/https://webserver.rilegislature.gov/Statutes/TITLE44/44-20.2/INDEX.HTM",
+     "sha256": "0acd601d4ffbadfb23b79a06978bce4a95ed2b27e9758f8c64bbf90b26677afb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0030-0003",
+   "short": "R.I. Gen. Laws ch. 44-30.3",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-30.3: Residential Lead Abatement Income Tax Credit",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-30.3/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250625095322/https://webserver.rilegislature.gov/Statutes/TITLE44/44-30.3/INDEX.HTM",
+     "sha256": "4fd14bb3026ea939271143efacf05258bfb0eae763d1c87a3351ee29417606c9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0031",
+   "short": "R.I. Gen. Laws ch. 44-31",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-31: Investment Tax Credit",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-31/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250625095323/https://webserver.rilegislature.gov/Statutes/TITLE44/44-31/INDEX.HTM",
+     "sha256": "e34a7017d8b6c6d90a18a1e1f9e82d01de2b677d21d18dfd49a970000b4f8884"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0031-0003",
+   "short": "R.I. Gen. Laws ch. 44-31.3",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-31.3: Musical and Theatrical Production Tax Credits",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-31.3/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260717035150/https://webserver.rilegislature.gov/Statutes/TITLE44/44-31.3/INDEX.HTM",
+     "sha256": "223033537746f2b46f6498f33ee9a648888ab8d401874285d1258f388ae2f619"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0032",
+   "short": "R.I. Gen. Laws ch. 44-32",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-32: Elective Deduction for Research and Development Facilities",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-32/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-12-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250625095332/https://webserver.rilegislature.gov/Statutes/TITLE44/44-32/INDEX.HTM",
+     "sha256": "3be4ca0add5f4457edfccfc422c800d94f4f82faa3a419517b5ed4c2f7bd822a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0033",
+   "short": "R.I. Gen. Laws ch. 44-33",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-33: Property Tax Relief",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-33/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20250625095334/https://webserver.rilegislature.gov/Statutes/TITLE44/44-33/INDEX.HTM",
+     "sha256": "60b5afe8c1eb7d18d495ae31ce54f6c15081fcc87c220d5fa03808432d212f87"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0033-0001",
+   "short": "R.I. Gen. Laws ch. 44-33.1",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-33.1: Historic Homeownership Assistance Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-33.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250625095337/https://webserver.rilegislature.gov/Statutes/TITLE44/44-33.1/INDEX.HTM",
+     "sha256": "3111c50a8999bb6c67f91e9ce3a6913da9d937fbf23f0692d21fe08369c443fb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0033-0006",
+   "short": "R.I. Gen. Laws ch. 44-33.6",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-33.6: Historic Preservation Tax Credits 2013",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-33.6/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-27",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250625095347/https://webserver.rilegislature.gov/Statutes/TITLE44/44-33.6/INDEX.HTM",
+     "sha256": "5e6aae9274c3f50c12238e73a96c80178123ef29d9e38d39d3810eb1b300f45d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0034-0001",
+   "short": "R.I. Gen. Laws ch. 44-34.1",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-34.1: Motor Vehicle and Trailer Excise Tax Elimination Act of 1998",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-34.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250625095353/https://webserver.rilegislature.gov/Statutes/TITLE44/44-34.1/INDEX.HTM",
+     "sha256": "befa5bfebc6fc817847b7ffce3e9bf5f52f569356ed69d606101703c4f0a4eae"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0039-0001",
+   "short": "R.I. Gen. Laws ch. 44-39.1",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-39.1: Employment Tax Credit",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-39.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-20",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260123072934/https://webserver.rilegislature.gov/Statutes/TITLE44/44-39.1/INDEX.HTM",
+     "sha256": "c7a4f9fa03dc9c5de43646ed5b84664bf7ba4f9e18edef8bbfb4a1c700bed0ba"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0043",
+   "short": "R.I. Gen. Laws ch. 44-43",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-43: Tax Incentives for Capital Investment in Small Businesses",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-43/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250625095418/https://webserver.rilegislature.gov/Statutes/TITLE44/44-43/INDEX.HTM",
+     "sha256": "6aed35e6a63494cfde4cee92970cc7695862d07d2452a77cba624974c21bf1a7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0046",
+   "short": "R.I. Gen. Laws ch. 44-46",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-46: Adult Education Tax Credit",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-46/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260901113520/https://webserver.rilegislature.gov/Statutes/TITLE44/44-46/INDEX.HTM",
+     "sha256": "43fb44c4617996df686fb0be89626663322cf813ddb4a65e1c43d44ceeb1c38f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0047",
+   "short": "R.I. Gen. Laws ch. 44-47",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-47: Adult and Child Day Care Assistance and Development Tax Credit",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-47/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260908084423/https://webserver.rilegislature.gov/Statutes/TITLE44/44-47/INDEX.HTM",
+     "sha256": "86daf69e8f9f2bab8689a9fa0e96be246200eabfbf35c8696ef11f16677f8e84"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0048-0001",
+   "short": "R.I. Gen. Laws ch. 44-48.1",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-48.1: Tax Expenditure Reporting",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-48.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-02-26",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250625095434/https://webserver.rilegislature.gov/Statutes/TITLE44/44-48.1/INDEX.HTM",
+     "sha256": "8587bda1aebd1736274804b72426b2d853eefc06055efca586521831c5a2006e"
     }
    ]
   }

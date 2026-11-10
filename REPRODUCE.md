@@ -127,13 +127,34 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0042-0017-0004` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-17.4: Wastewater Treatment Plants | 1 | 2026-06-29 to 2026-06-29 |
 | `chapter-0042-0045` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-45: Rhode Island Historical Preservation and Heritage Commission | 1 | 2026-02-03 to 2026-02-03 |
 | `chapter-0042-0046` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-46: Open Meetings | 1 | 2026-09-12 to 2026-09-12 |
+| `chapter-0042-0064-0020` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-64.20: Rebuild Rhode Island Tax Credit | 1 | 2026-09-02 to 2026-09-02 |
+| `chapter-0042-0072-0008` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-72.8: Department of Children, Youth and Families' Higher Education Opportunity Incentive Grant | 1 | 2025-07-09 to 2025-07-09 |
 | `chapter-0042-0166` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-166: The Ladders to Licensure Program | 1 | 2025-03-30 to 2025-03-30 |
+| `chapter-0044-0002` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-2: Tax Officials Generally | 1 | 2026-05-12 to 2026-05-12 |
+| `chapter-0044-0004-0002` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-4.2: Historic Industrial Building - Tax Deferment | 1 | 2026-10-15 to 2026-10-15 |
+| `chapter-0044-0013-0001` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-13.1: Taxation of Railroad Corporations | 1 | 2026-02-14 to 2026-02-14 |
+| `chapter-0044-0015` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-15: Tax on Bank Deposits Generally | 1 | 2026-10-08 to 2026-10-08 |
+| `chapter-0044-0017` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-17: Taxation of Insurance Companies | 1 | 2026-08-24 to 2026-08-24 |
+| `chapter-0044-0020-0002` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-20.2: Little Cigar Tax | 1 | 2026-05-14 to 2026-05-14 |
+| `chapter-0044-0030-0003` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-30.3: Residential Lead Abatement Income Tax Credit | 1 | 2026-09-04 to 2026-09-04 |
+| `chapter-0044-0031` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-31: Investment Tax Credit | 1 | 2026-01-07 to 2026-01-07 |
+| `chapter-0044-0031-0003` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-31.3: Musical and Theatrical Production Tax Credits | 1 | 2025-03-21 to 2025-03-21 |
+| `chapter-0044-0032` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-32: Elective Deduction for Research and Development Facilities | 1 | 2025-12-07 to 2025-12-07 |
+| `chapter-0044-0033` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-33: Property Tax Relief | 1 | 2026-10-07 to 2026-10-07 |
+| `chapter-0044-0033-0001` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-33.1: Historic Homeownership Assistance Act | 1 | 2026-05-12 to 2026-05-12 |
+| `chapter-0044-0033-0006` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-33.6: Historic Preservation Tax Credits 2013 | 1 | 2026-09-27 to 2026-09-27 |
+| `chapter-0044-0034-0001` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-34.1: Motor Vehicle and Trailer Excise Tax Elimination Act of 1998 | 1 | 2026-02-05 to 2026-02-05 |
+| `chapter-0044-0039-0001` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-39.1: Employment Tax Credit | 1 | 2026-09-20 to 2026-09-20 |
+| `chapter-0044-0043` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-43: Tax Incentives for Capital Investment in Small Businesses | 1 | 2026-10-02 to 2026-10-02 |
+| `chapter-0044-0046` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-46: Adult Education Tax Credit | 1 | 2026-06-08 to 2026-06-08 |
+| `chapter-0044-0047` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-47: Adult and Child Day Care Assistance and Development Tax Credit | 1 | 2026-07-03 to 2026-07-03 |
+| `chapter-0044-0048-0001` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-48.1: Tax Expenditure Reporting | 1 | 2025-02-26 to 2025-02-26 |
 
-The build made 114 commits:
+The build made 135 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 114 | first version of an act |
+| 135 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -141,7 +162,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 114 tags.
+- 135 tags.
 
 ## Dates
 
@@ -153,7 +174,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `159b6f2d627d7f762209fcc37a3d7b5b315ac5f1a68271ae0009356e5cc6c6ef` (2347375 bytes).
+- Corpus: sha256 `8e5c5f89118474653eb7e5a80265abfe3d3a8b59cb1e1c78c645d87531b5352c` (2651440 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
