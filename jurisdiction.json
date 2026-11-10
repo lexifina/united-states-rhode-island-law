@@ -1,0 +1,8 @@
+{
+  "path": "us/ri",
+  "code": "US-RI",
+  "name": "United States (Rhode Island)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-rhode-island-law",
+  "build": "built"
+}

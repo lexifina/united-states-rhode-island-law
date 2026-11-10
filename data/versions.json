@@ -1,0 +1,229 @@
+{
+ "country": "US-RI",
+ "acts": [
+  {
+   "slug": "constitution-preamble",
+   "short": "R.I. Const. preamble",
+   "title": "Constitution of the State of Rhode Island, Preamble",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C01.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20240617100421/https://webserver.rilegislature.gov/RiConstitution/C01.html",
+     "sha256": "e7ad92a926fb08910c9123252499b632b495bf33c1df318a16836bcdbfe24ffd"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-01",
+   "short": "R.I. Const. art. 1",
+   "title": "Constitution of the State of Rhode Island, Article 1: Declaration of Certain Constitutional Rights and Principles",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C01.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20240617100421/https://webserver.rilegislature.gov/RiConstitution/C01.html",
+     "sha256": "e7ad92a926fb08910c9123252499b632b495bf33c1df318a16836bcdbfe24ffd"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-02",
+   "short": "R.I. Const. art. 2",
+   "title": "Constitution of the State of Rhode Island, Article 2: Of Suffrage",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C02.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20240617101548/https://webserver.rilegislature.gov/RiConstitution/C02.html",
+     "sha256": "477e0c0c48084475e61a435d2b59df0efc5c8f4be4e2c6881314326387ce5296"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-03",
+   "short": "R.I. Const. art. 3",
+   "title": "Constitution of the State of Rhode Island, Article 3: Of Qualification for Office",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C03.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20240617102244/https://webserver.rilegislature.gov/RiConstitution/C03.html",
+     "sha256": "b6502b3089a6eb3c76d82d82e173184bca836fdd2526d36227229cb51b04665b"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-04",
+   "short": "R.I. Const. art. 4",
+   "title": "Constitution of the State of Rhode Island, Article 4: Of Elections and Campaign Finance",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C04.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20240617103428/https://webserver.rilegislature.gov/RiConstitution/C04.html",
+     "sha256": "a7ac3b345e772c807fa3539720ee9387c096a1cad72efe214b9ac46eec6e6be7"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-05",
+   "short": "R.I. Const. art. 5",
+   "title": "Constitution of the State of Rhode Island, Article 5: Of the Distribution of Powers",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C05.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20240617105234/https://webserver.rilegislature.gov/RiConstitution/C05.html",
+     "sha256": "c62d539ddacaf3db09f0f087030df333b1adc3847d4234a8298524a1f279ee25"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-06",
+   "short": "R.I. Const. art. 6",
+   "title": "Constitution of the State of Rhode Island, Article 6: Of the Legislative Power",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C06.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20240617111137/https://webserver.rilegislature.gov/RiConstitution/C06.html",
+     "sha256": "596780c79f02d8e76528b76aa755586ae8c3d33b837ad7a2e4f1b412f6886e72"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-07",
+   "short": "R.I. Const. art. 7",
+   "title": "Constitution of the State of Rhode Island, Article 7: Of the House of Representatives",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C07.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20240617111956/https://webserver.rilegislature.gov/RiConstitution/C07.html",
+     "sha256": "84e87d98206cf71b694f2232a1ab55ce35935547b4937f4d1817fa7be81bba2e"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-08",
+   "short": "R.I. Const. art. 8",
+   "title": "Constitution of the State of Rhode Island, Article 8: Of the Senate",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C08.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20240617113044/https://webserver.rilegislature.gov/RiConstitution/C08.html",
+     "sha256": "ae8b43b49c97c2da86cc3d231fdefd601b83c9def4ee832bb5d71337d082d1b2"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-09",
+   "short": "R.I. Const. art. 9",
+   "title": "Constitution of the State of Rhode Island, Article 9: Of the Executive Power",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C09.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20240617093135/https://webserver.rilegislature.gov/RiConstitution/C09.html",
+     "sha256": "89381719738ca87eecbf4922e0d4e1e23dfab0ce1a755c400150f61123232951"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-10",
+   "short": "R.I. Const. art. 10",
+   "title": "Constitution of the State of Rhode Island, Article 10: Of the Judicial Power",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C10.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20240617110054/https://webserver.rilegislature.gov/RiConstitution/C10.html",
+     "sha256": "e94c8ee429bfd8eb0050b0f283e06aa9358168ddfd892adc4962393a8bb970f2"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-11",
+   "short": "R.I. Const. art. 11",
+   "title": "Constitution of the State of Rhode Island, Article 11: Of Impeachments",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C11.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20240617111407/https://webserver.rilegislature.gov/RiConstitution/C11.html",
+     "sha256": "73cf7a83f019323784a835d0b17c9c380bfcc80b05e19d184b355fa1b5dbff73"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-12",
+   "short": "R.I. Const. art. 12",
+   "title": "Constitution of the State of Rhode Island, Article 12: Of Education",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C12.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20240617112213/https://webserver.rilegislature.gov/RiConstitution/C12.html",
+     "sha256": "1cd30b4eeb5ff2f7fcfd0a36152ba7144b7c9308980125b47e38bc473908003c"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-13",
+   "short": "R.I. Const. art. 13",
+   "title": "Constitution of the State of Rhode Island, Article 13: Home Rule for Cities and Towns",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C13.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20240617113527/https://webserver.rilegislature.gov/RiConstitution/C13.html",
+     "sha256": "7bedf17b1f9b09ee9864b9df6d5d68bdd80084d1aa339b89ce9be0a3a5eca832"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-14",
+   "short": "R.I. Const. art. 14",
+   "title": "Constitution of the State of Rhode Island, Article 14: Constitutional Amendments and Revisions",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C14.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20240617093750/https://webserver.rilegislature.gov/RiConstitution/C14.html",
+     "sha256": "9e3ba0d0e0f620e5b8d6988c13443af85810a8fe99c8b68175d1459849b3246d"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-15",
+   "short": "R.I. Const. art. 15",
+   "title": "Constitution of the State of Rhode Island, Article 15: General Transition",
+   "url": "https://webserver.rilegislature.gov/RiConstitution/C15.html",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20240617095713/https://webserver.rilegislature.gov/RiConstitution/C15.html",
+     "sha256": "f83a3ddbfbe6d1f18d269ebfd3ad3607245681e4278514e67b2ebdc472991f9d"
+    }
+   ]
+  }
+ ]
+}
