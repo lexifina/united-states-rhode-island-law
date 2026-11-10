@@ -30,12 +30,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `constitution-article-13` | Constitution of the State of Rhode Island, Article 13: Home Rule for Cities and Towns | 1 | 2024-06-17 to 2024-06-17 |
 | `constitution-article-14` | Constitution of the State of Rhode Island, Article 14: Constitutional Amendments and Revisions | 1 | 2024-06-17 to 2024-06-17 |
 | `constitution-article-15` | Constitution of the State of Rhode Island, Article 15: General Transition | 1 | 2024-06-17 to 2024-06-17 |
+| `chapter-0001-0002` | General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-2: Airports and Landing Fields | 1 | 2026-10-04 to 2026-10-04 |
+| `chapter-0001-0003` | General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-3: Airport Zoning | 1 | 2026-10-08 to 2026-10-08 |
 
-The build made 16 commits:
+The build made 18 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 16 | first version of an act |
+| 18 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -43,7 +45,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 16 tags.
+- 18 tags.
 
 ## Dates
 
@@ -55,7 +57,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a67fb0aaf868c26ee5fea26b6e096a4e10b9f97bcb8a79d48b09da1280730fcc` (91471 bytes).
+- Corpus: sha256 `cdcf31424a268583f7a0c5208ca641096351324b4b824b98f38690e65e8ba69d` (157102 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -64,8 +66,6 @@ When a law gives no date of its own, the default rule applies: No dated history 
 Not yet run for this build.
 
 No second build of this corpus has been compared yet.
-
-On GitHub this history follows the repository's first commit ("sources, before any law"), so each commit there has that parent and a committer time of its own; `tools/build.py` rebuilds the same files in the same commits, with the hashes quoted above.
 
 ## Decisions made by hand
 
