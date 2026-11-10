@@ -87,16 +87,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0028-0043` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-43: Employment Security - Contributions | 1 | 2026-10-26 to 2026-10-26 |
 | `chapter-0028-0044` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-44: Employment Security - Benefits | 1 | 2026-10-15 to 2026-10-15 |
 | `chapter-0028-0060` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-60: Posting of Veterans' Benefits and Services | 1 | 2025-03-31 to 2025-03-31 |
+| `chapter-0031-0003-0002` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-3.2: Snowmobiles and Recreational Vehicles | 1 | 2026-06-16 to 2026-06-16 |
 | `chapter-0031-0010-0004` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-10.4: Driver Privilege Cards and Permits; State Identification Cards | 1 | 2026-10-16 to 2026-10-16 |
 | `chapter-0031-0019-0007` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-19.7: Electric Bicycles | 1 | 2026-10-14 to 2026-10-14 |
 | `chapter-0031-0021-0002` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-21.2: Comprehensive Community-Police Relationship Act of 2015 | 1 | 2026-09-22 to 2026-09-22 |
 | `chapter-0031-0026` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-26: Accidents and Accident Reports | 1 | 2026-10-18 to 2026-10-18 |
+| `chapter-0031-0047` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-47: Motor Vehicle Reparations Act | 1 | 2026-10-27 to 2026-10-27 |
+| `chapter-0032-0003` | General Laws of Rhode Island, Title 32 (Parks and Recreational Areas), Chapter 32-3: Town Forests, Parks, and Recreation Systems | 1 | 2026-04-13 to 2026-04-13 |
+| `chapter-0032-0007` | General Laws of Rhode Island, Title 32 (Parks and Recreational Areas), Chapter 32-7: Recreational Vehicle Parks and Campgrounds Act | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0034-0011` | General Laws of Rhode Island, Title 34 (Property), Chapter 34-11: Form and Effect of Conveyances | 1 | 2026-10-09 to 2026-10-09 |
+| `chapter-0034-0012` | General Laws of Rhode Island, Title 34 (Property), Chapter 34-12: Acknowledgments and Notarial Acts | 1 | 2026-02-08 to 2026-02-08 |
+| `chapter-0035-0017` | General Laws of Rhode Island, Title 35 (Public Finance), Chapter 35-17: Medical Assistance and Public Assistance Caseload Estimating Conferences | 1 | 2026-05-18 to 2026-05-18 |
+| `chapter-0037-0018` | General Laws of Rhode Island, Title 37 (Public Property and Works), Chapter 37-18: Narragansett Indian Land Management Corporation | 1 | 2026-08-11 to 2026-08-11 |
+| `chapter-0039-0001-0002` | General Laws of Rhode Island, Title 39 (Public Utilities and Carriers), Chapter 39-1.2: Excavation near Underground Utility Facilities | 1 | 2026-09-10 to 2026-09-10 |
+| `chapter-0039-0021-0001` | General Laws of Rhode Island, Title 39 (Public Utilities and Carriers), Chapter 39-21.1: 911 Emergency Telephone Number Act | 1 | 2026-10-17 to 2026-10-17 |
+| `chapter-0039-0027-0001` | General Laws of Rhode Island, Title 39 (Public Utilities and Carriers), Chapter 39-27.1: Appliance and Equipment Energy and Water Efficiency Standards Act of 2021 | 1 | 2026-07-14 to 2026-07-14 |
+| `chapter-0040-0014` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-14: Equipment Loan Fund for People with Disabilities | 1 | 2026-07-14 to 2026-07-14 |
+| `chapter-0040-0018` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-18: Long-Term Home Health Care - Alternative to Placement in Skilled Nursing or Intermediate Care Facility | 1 | 2025-03-30 to 2025-03-30 |
+| `chapter-0040-0019-0001` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-19.1: Teen Pregnancy Prevention Partnership Act | 1 | 2025-03-30 to 2025-03-30 |
+| `chapter-0040-0020` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-20: Long-Term Care System Planning | 1 | 2025-03-31 to 2025-03-31 |
 
-The build made 77 commits:
+The build made 92 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 77 | first version of an act |
+| 92 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -104,7 +119,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 77 tags.
+- 92 tags.
 
 ## Dates
 
@@ -116,7 +131,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5637577115ab257e2b6cf5da7f17c302125f2a3593cb836948dea94b6b3e49e1` (1604982 bytes).
+- Corpus: sha256 `546570fb0dd0d1f588df3bdd16d782d1ffb48d172dd7df57adab6977d4f24a75` (1946963 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

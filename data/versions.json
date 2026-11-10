@@ -1024,6 +1024,20 @@
    ]
   },
   {
+   "slug": "chapter-0031-0003-0002",
+   "short": "R.I. Gen. Laws ch. 31-3.2",
+   "title": "General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-3.2: Snowmobiles and Recreational Vehicles",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-3.2/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260424122919/http://webserver.rilegislature.gov/Statutes/TITLE31/31-3.2/INDEX.HTM",
+     "sha256": "51f51054f015855efc772e0e51e19cf94240cf797b469f97f8d5e3dfc0324526"
+    }
+   ]
+  },
+  {
    "slug": "chapter-0031-0010-0004",
    "short": "R.I. Gen. Laws ch. 31-10.4",
    "title": "General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-10.4: Driver Privilege Cards and Permits; State Identification Cards",
@@ -1076,6 +1090,202 @@
      "units": 19,
      "source_url": "https://web.archive.org/web/20250622221224/https://webserver.rilegislature.gov/Statutes/TITLE31/31-26/INDEX.htm",
      "sha256": "fe7a8afbaa9f57b6ec480cea7e92bead898190409e05ab2e5f4d2b2964447b75"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0031-0047",
+   "short": "R.I. Gen. Laws ch. 31-47",
+   "title": "General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-47: Motor Vehicle Reparations Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-47/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20260225135527/http://webserver.rilegislature.gov/Statutes/TITLE31/31-47/INDEX.HTM",
+     "sha256": "4c426be402aead96d4c383510e415131e165866b87f0a9563e3c65099dfd39e9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0032-0003",
+   "short": "R.I. Gen. Laws ch. 32-3",
+   "title": "General Laws of Rhode Island, Title 32 (Parks and Recreational Areas), Chapter 32-3: Town Forests, Parks, and Recreation Systems",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE32/32-3/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250622221400/http://webserver.rilegislature.gov/Statutes/TITLE32/32-3/INDEX.htm",
+     "sha256": "904cbd766f3eb46b55b5879c33ce252497f37e46650c808ba13fe4daaba47466"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0032-0007",
+   "short": "R.I. Gen. Laws ch. 32-7",
+   "title": "General Laws of Rhode Island, Title 32 (Parks and Recreational Areas), Chapter 32-7: Recreational Vehicle Parks and Campgrounds Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE32/32-7/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250622221409/http://webserver.rilegislature.gov/Statutes/TITLE32/32-7/INDEX.htm",
+     "sha256": "2b59a112a5e770c33cb20b0dd4a7c1f00326b8a11bc2be525fcc69884623a110"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0034-0011",
+   "short": "R.I. Gen. Laws ch. 34-11",
+   "title": "General Laws of Rhode Island, Title 34 (Property), Chapter 34-11: Form and Effect of Conveyances",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE34/34-11/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-09",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260410223533/http://webserver.rilegislature.gov/Statutes/TITLE34/34-11/INDEX.HTM",
+     "sha256": "eb649b5dac55482b0781a8f6fb1a82608326ad9ff71902acbb2e3a31d6faa1f8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0034-0012",
+   "short": "R.I. Gen. Laws ch. 34-12",
+   "title": "General Laws of Rhode Island, Title 34 (Property), Chapter 34-12: Acknowledgments and Notarial Acts",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE34/34-12/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-02-08",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250622221617/http://webserver.rilegislature.gov/Statutes/TITLE34/34-12/INDEX.htm",
+     "sha256": "7be80d63e375ea6b783d8709935068d0a5c17276c654c9c1b79bb6a7c01b4da1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0035-0017",
+   "short": "R.I. Gen. Laws ch. 35-17",
+   "title": "General Laws of Rhode Island, Title 35 (Public Finance), Chapter 35-17: Medical Assistance and Public Assistance Caseload Estimating Conferences",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE35/35-17/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250622221919/https://webserver.rilegislature.gov/Statutes/TITLE35/35-17/INDEX.HTM",
+     "sha256": "fa9fd280ab0d85c72586a612b71929b4d534313dd144dc91f3a5edbb43e13215"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0037-0018",
+   "short": "R.I. Gen. Laws ch. 37-18",
+   "title": "General Laws of Rhode Island, Title 37 (Public Property and Works), Chapter 37-18: Narragansett Indian Land Management Corporation",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE37/37-18/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250622222039/http://webserver.rilegislature.gov/Statutes/TITLE37/37-18/INDEX.HTM",
+     "sha256": "11a64b849a7ae8d1f0e52792b9243fba3abe3396f0eea35e90e3e509450ebaf6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0039-0001-0002",
+   "short": "R.I. Gen. Laws ch. 39-1.2",
+   "title": "General Laws of Rhode Island, Title 39 (Public Utilities and Carriers), Chapter 39-1.2: Excavation near Underground Utility Facilities",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE39/39-1.2/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260110032709/http://webserver.rilegislature.gov/Statutes/TITLE39/39-1.2/INDEX.htm",
+     "sha256": "0580c3b19cd97038c302b5e045e2fbb55460d085b4dfeddff70d7c85c7541381"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0039-0021-0001",
+   "short": "R.I. Gen. Laws ch. 39-21.1",
+   "title": "General Laws of Rhode Island, Title 39 (Public Utilities and Carriers), Chapter 39-21.1: 911 Emergency Telephone Number Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE39/39-21.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260208225917/http://webserver.rilegislature.gov/Statutes/TITLE39/39-21.1/INDEX.HTM",
+     "sha256": "4794ab058f9d339e21fb51ac889e761f3047f704ee85ddf8218b5e3557499e1b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0039-0027-0001",
+   "short": "R.I. Gen. Laws ch. 39-27.1",
+   "title": "General Laws of Rhode Island, Title 39 (Public Utilities and Carriers), Chapter 39-27.1: Appliance and Equipment Energy and Water Efficiency Standards Act of 2021",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE39/39-27.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250622222307/http://webserver.rilegislature.gov/Statutes/TITLE39/39-27.1/INDEX.htm",
+     "sha256": "1a80a068418869f6d408f23174fc61849eab930c21d13eec429ab910ef83338d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0014",
+   "short": "R.I. Gen. Laws ch. 40-14",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-14: Equipment Loan Fund for People with Disabilities",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-14/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250622222456/http://webserver.rilegislature.gov/Statutes/TITLE40/40-14/INDEX.htm",
+     "sha256": "1da43ee25e91fe75b2e8b1cc86d93d9cf09ae4f079257f86a084764ee2a61069"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0018",
+   "short": "R.I. Gen. Laws ch. 40-18",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-18: Long-Term Home Health Care - Alternative to Placement in Skilled Nursing or Intermediate Care Facility",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-18/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-03-30",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250622222510/http://webserver.rilegislature.gov/Statutes/TITLE40/40-18/INDEX.htm",
+     "sha256": "bb57a51bd5e22b04953fb6eeeb79ff679d83975f5602b7f3937557ce7b0c7ced"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0019-0001",
+   "short": "R.I. Gen. Laws ch. 40-19.1",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-19.1: Teen Pregnancy Prevention Partnership Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-19.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-03-30",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250622222514/http://webserver.rilegislature.gov/Statutes/TITLE40/40-19.1/INDEX.htm",
+     "sha256": "9767be1830502f2dae02e3b0415ea6489194b33961a96f0ddd9eda50b191bf6d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0020",
+   "short": "R.I. Gen. Laws ch. 40-20",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-20: Long-Term Care System Planning",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-20/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250622222516/http://webserver.rilegislature.gov/Statutes/TITLE40/40-20/INDEX.htm",
+     "sha256": "dad07b4c5a6bd604d2e353279dc24aa6d3d36a0c0468e0969220a4dbb00c8f27"
     }
    ]
   }
