@@ -252,6 +252,356 @@
      "sha256": "e63add79fc0fa0b1b988f122fe4463d0ce1b051e9bd792c7e2274c6d4680203f"
     }
    ]
+  },
+  {
+   "slug": "chapter-0001-0004",
+   "short": "R.I. Gen. Laws ch. 1-4",
+   "title": "General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-4: Uniform Aeronautical Regulatory Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE1/1-4/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250807155615/http://webserver.rilegislature.gov/Statutes/TITLE1/1-4/INDEX.htm",
+     "sha256": "0595f25ec4edf9b0e39e22340c5688bf745d2089c93bee46c2f1f1b88d5cbd8b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0001-0005",
+   "short": "R.I. Gen. Laws ch. 1-5",
+   "title": "General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-5: Permanent Noise Monitoring Act - Aircraft Operations Monitoring System",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE1/1-5/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250610103744/http://webserver.rilegislature.gov/Statutes/TITLE1/1-5/INDEX.htm",
+     "sha256": "3d8ea8d8fb3d6158d91c98491bac1603970f9f4477d98709ebf2042db2addd61"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0001-0006",
+   "short": "R.I. Gen. Laws ch. 1-6",
+   "title": "General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-6: Warwick Airport Parking District",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE1/1-6/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-01-23",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250806151429/http://webserver.rilegislature.gov/Statutes/TITLE1/1-6/INDEX.htm",
+     "sha256": "35dcfa0033e6626f4517c7afa34177aed5ff08d87dfbdbc9760a9099647e70e4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0001-0007",
+   "short": "R.I. Gen. Laws ch. 1-7",
+   "title": "General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-7: The Permanent Air Quality Monitoring Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE1/1-7/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-06-13",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250619040058/http://webserver.rilegislature.gov/Statutes/TITLE1/1-7/INDEX.htm",
+     "sha256": "83344a8d9c2ea5816642b1722c599462950737420839bcfef887190a75fb5182"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0001-0008",
+   "short": "R.I. Gen. Laws ch. 1-8",
+   "title": "General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-8: Unpiloted Aerial Vehicles",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE1/1-8/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250610103750/http://webserver.rilegislature.gov/Statutes/TITLE1/1-8/INDEX.htm",
+     "sha256": "3c04554e6eb4e1b2f0bca71ec838a850f02b98a8a0b2e306ebad56df268d20d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0011-0052",
+   "short": "R.I. Gen. Laws ch. 11-52",
+   "title": "General Laws of Rhode Island, Title 11 (Criminal Offenses), Chapter 11-52: Computer Crime",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE11/11-52/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250612222623/http://webserver.rilegislature.gov/Statutes/TITLE11/11-52/INDEX.htm",
+     "sha256": "7b5eda7052f58a708d837c604e0ffd51b54586613ffaf664790ab9d3cf0b1ba3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-0001-0005",
+   "short": "R.I. Gen. Laws ch. 12-1.5",
+   "title": "General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-1.5: DNA Detection of Sexual and Violent Offenders",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE12/12-1.5/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-04-05",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250612222721/http://webserver.rilegislature.gov/Statutes/TITLE12/12-1.5/INDEX.htm",
+     "sha256": "a40a75d9984e0c168f25b39c0c4112661312be0d1226eed0ceff62e8eb6d8d50"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-0007",
+   "short": "R.I. Gen. Laws ch. 12-7",
+   "title": "General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-7: Arrest",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE12/12-7/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-08-22",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260415230000/http://webserver.rilegislature.gov/Statutes/TITLE12/12-7/INDEX.htm",
+     "sha256": "8cb3df0eb8f9aa59e20dcb93aae750139c848d81cdce034bea71d18dc24dfd29"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-0012",
+   "short": "R.I. Gen. Laws ch. 12-12",
+   "title": "General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-12: Indictments, Informations and Complaints",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE12/12-12/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20250612222755/http://webserver.rilegislature.gov/Statutes/TITLE12/12-12/INDEX.htm",
+     "sha256": "7de8adca522eab9eec1233506f0b30f27bd002b6937f569e111e1688ec22091c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-0019-0001",
+   "short": "R.I. Gen. Laws ch. 12-19.1",
+   "title": "General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-19.1: Judicial Sentencing Disclosure Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE12/12-19.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250612222813/http://webserver.rilegislature.gov/Statutes/TITLE12/12-19.1/INDEX.htm",
+     "sha256": "4c614d7a541deed17e323df64c031f540103652ad1f2794ae6cf0fa1964bb37b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-0021",
+   "short": "R.I. Gen. Laws ch. 12-21",
+   "title": "General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-21: Recovery of Fines, Penalties, and Forfeitures",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE12/12-21/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20250612222820/http://webserver.rilegislature.gov/Statutes/TITLE12/12-21/INDEX.htm",
+     "sha256": "b2aa9e0529ea5681fe61fda08df6d6c14be1de744b321588b8f38aca830c1657"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012-0028",
+   "short": "R.I. Gen. Laws ch. 12-28",
+   "title": "General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-28: Victim's Rights",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE12/12-28/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250612222834/http://webserver.rilegislature.gov/Statutes/TITLE12/12-28/INDEX.htm",
+     "sha256": "14a6efcd5af5e65919075ba1cc3d51a0dabf55fc5937bb5d74039adbc2214485"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0013-0008-0001",
+   "short": "R.I. Gen. Laws ch. 13-8.1",
+   "title": "General Laws of Rhode Island, Title 13 (Criminals - Correctional Institutions), Chapter 13-8.1: Medical and Geriatric Parole",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE13/13-8.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-06-07",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260123051221/http://webserver.rilegislature.gov/Statutes/TITLE13/13-8.1/INDEX.HTM",
+     "sha256": "93b99d3deab14e299e9a871dcb0f8cd74e48ccf7006f3c833428b1397bbe8ee3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0015-0001",
+   "short": "R.I. Gen. Laws ch. 15-1",
+   "title": "General Laws of Rhode Island, Title 15 (Domestic Relations), Chapter 15-1: Persons Eligible to Marry",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE15/15-1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20251101220202/http://webserver.rilegislature.gov/Statutes/TITLE15/15-1/INDEX.htm",
+     "sha256": "e6a06fd3f80a75a8c567fe86e6ef583fcbd8783019267c96f077b11bebc7963f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0015-0007-0002",
+   "short": "R.I. Gen. Laws ch. 15-7.2",
+   "title": "General Laws of Rhode Island, Title 15 (Domestic Relations), Chapter 15-7.2: Passive Voluntary Adoption Mutual Consent Registry Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE15/15-7.2/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250712061324/http://webserver.rilegislature.gov/Statutes/TITLE15/15-7.2/INDEX.htm",
+     "sha256": "58555582fb777c11b2bcb7294eda83f8d4d3f0adb085a24abbc6fed03f9a8728"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0015-0022",
+   "short": "R.I. Gen. Laws ch. 15-22",
+   "title": "General Laws of Rhode Island, Title 15 (Domestic Relations), Chapter 15-22: Exchange of Information in Support of Child Support Collection",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE15/15-22/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260106080500/http://webserver.rilegislature.gov/Statutes/TITLE15/15-22/INDEX.htm",
+     "sha256": "699f68b76b3bda815e7019e4af24e6e43c49a8676e706a40498fbdb92b417145"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0015-0025",
+   "short": "R.I. Gen. Laws ch. 15-25",
+   "title": "General Laws of Rhode Island, Title 15 (Domestic Relations), Chapter 15-25: Credit Reporting",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE15/15-25/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250612223033/http://webserver.rilegislature.gov/Statutes/TITLE15/15-25/INDEX.htm",
+     "sha256": "e0ee5238643a90e7423e91f5cf24e46a5e5f036b7dbda82be48f7457d3299b58"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0015-0029",
+   "short": "R.I. Gen. Laws ch. 15-29",
+   "title": "General Laws of Rhode Island, Title 15 (Domestic Relations), Chapter 15-29: Medical Support",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE15/15-29/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250612223039/http://webserver.rilegislature.gov/Statutes/TITLE15/15-29/INDEX.htm",
+     "sha256": "3362b62bcf2f92551d1d0ddb855928f44f61dd0b11bde39edf5346ff2fb1e1b3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0016-0003-0001",
+   "short": "R.I. Gen. Laws ch. 16-3.1",
+   "title": "General Laws of Rhode Island, Title 16 (Education), Chapter 16-3.1: Cooperative Service Among School Districts [See Title 16 Chapter 97 - The Rhode Island Board of Education Act]",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-3.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20250612223050/http://webserver.rilegislature.gov/Statutes/TITLE16/16-3.1/INDEX.htm",
+     "sha256": "8eac2ebf2a71da873421b77dbb3a2d173221865a17da949f638b86b3cdab4eb6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0016-0022-0001",
+   "short": "R.I. Gen. Laws ch. 16-22.1",
+   "title": "General Laws of Rhode Island, Title 16 (Education), Chapter 16-22.1: The Statewide Virtual Education Act [See Title 16 Chapter 97 - The Rhode Island Board of Education Act]",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-22.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250612223152/http://webserver.rilegislature.gov/Statutes/TITLE16/16-22.1/INDEX.htm",
+     "sha256": "4429cd754becdf7ed9e4e888b062a2b429e3301c39af63d04a209b59a2538955"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0016-0041",
+   "short": "R.I. Gen. Laws ch. 16-41",
+   "title": "General Laws of Rhode Island, Title 16 (Education), Chapter 16-41: New England Higher Education Compact",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-41/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250612223236/http://webserver.rilegislature.gov/Statutes/TITLE16/16-41/INDEX.htm",
+     "sha256": "99e11fcae5e8f555aea91b448c2d3230bc069298f3321a92180e285106a14b52"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0016-0044",
+   "short": "R.I. Gen. Laws ch. 16-44",
+   "title": "General Laws of Rhode Island, Title 16 (Education), Chapter 16-44: Community Colleges [See Title 16 Chapter 97 - The Rhode Island Board of Education Act]",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-44/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260110024945/http://webserver.rilegislature.gov/Statutes/TITLE16/16-44/INDEX.htm",
+     "sha256": "d9e949787d0b8e3ae4c934e380ca9c6e9e7d5b99f70af36c43ca7f89c686ef0e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0016-0111",
+   "short": "R.I. Gen. Laws ch. 16-111",
+   "title": "General Laws of Rhode Island, Title 16 (Education), Chapter 16-111: School Waste Recycling and Refuse Disposal",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-111/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20250525021200/http://webserver.rilegislature.gov/Statutes/TITLE16/16-111/INDEX.htm",
+     "sha256": "74a65b986e23b4c370c50f1f8608cd3733193ddf17fc6ad4bd28fc40f0f415c4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0016-0115",
+   "short": "R.I. Gen. Laws ch. 16-115",
+   "title": "General Laws of Rhode Island, Title 16 (Education), Chapter 16-115: Rhode Island Early Care and Education Workforce Data Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-115/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250615082246/https://webserver.rilegislature.gov/Statutes/TITLE16/16-115/INDEX.htm",
+     "sha256": "3bc8daa6275a23a5f0cd2fd31c2e08377bf57434114a3a84d39f2ba88a59a5a8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0016-0116",
+   "short": "R.I. Gen. Laws ch. 16-116",
+   "title": "General Laws of Rhode Island, Title 16 (Education), Chapter 16-116: Transparency in Arts Education Access and Proficiency Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE16/16-116/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250615082248/https://webserver.rilegislature.gov/Statutes/TITLE16/16-116/INDEX.htm",
+     "sha256": "0bd518a4072907fa42af634fbf8d2cef0203347e3b7bf0fba11be486eb2cec51"
+    }
+   ]
   }
  ]
 }

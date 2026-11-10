@@ -7,7 +7,7 @@ The law of Rhode Island as a git history: one file per provision, with `git blam
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitution-*/` | Constitution of the State of Rhode Island: the preamble and 15 articles | 1 | 119 provisions; read from captures of 2024-06-17 |
-| `chapter-NNNN-NNNN/` | General Laws: 2 of the 2519 chapters in force listed in the title indexes | 1 | 60 sections; each chapter dated by the newest capture among its section pages (2026-10-04 to 2026-10-08) |
+| `chapter-NNNN-NNNN/` | General Laws: 27 of the 2519 chapters in force listed in the title indexes | 1 | 343 sections; each chapter dated by the newest capture among its section pages (2025-02-25 to 2026-10-25) |
 
 **Source.** The General Laws of Rhode Island and the Rhode Island Constitution as published by the General Assembly on [webserver.rilegislature.gov](https://webserver.rilegislature.gov/Statutes/), read from Internet Archive captures because the host times out from the build machine. The General Laws are published one page per section; a chapter is taken only when its index page and every section it lists were captured. Only section headings, text and the "History of Section." notes are taken.
 
@@ -25,4 +25,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-2 of the 2519 chapters in force listed in the title indexes are included (291 repealed, reserved or expired chapters are not counted). Left out so far: no capture of the chapter index (2051); chapter index lists no sections (465); not every section page fetched or readable yet (1). Most chapter index pages were never captured by the Internet Archive, so most chapters cannot be shown complete and are left out. Session laws and regulations are not included. There is no history before the dates above.
+27 of the 2519 chapters in force listed in the title indexes are included (291 repealed, reserved or expired chapters are not counted). Left out so far: no capture of the chapter index (2051); chapter index lists no sections (342); a listed section has no capture (98); not every section page fetched or readable yet (1). Most chapter index pages were never captured by the Internet Archive, so most chapters cannot be shown complete and are left out. Session laws and regulations are not included. There is no history before the dates above.
