@@ -1234,6 +1234,132 @@
    ]
   },
   {
+   "slug": "chapter-0040-0005",
+   "short": "R.I. Gen. Laws ch. 40-5",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-5: Support of the Needy",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-5/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-04-19",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250622222334/http://webserver.rilegislature.gov/Statutes/TITLE40/40-5/INDEX.htm",
+     "sha256": "c09b58afc928289ce7b95cb209f8001c67e79d1176bedb83cd17c402cabbbd22"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0006",
+   "short": "R.I. Gen. Laws ch. 40-6",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-6: Public Assistance Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-6/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20250622222345/http://webserver.rilegislature.gov/Statutes/TITLE40/40-6/INDEX.htm",
+     "sha256": "46fd2bc111c240f865b6cd1924ce280fd2b0fcd5e72799254c690f446028caed"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0006-0005",
+   "short": "R.I. Gen. Laws ch. 40-6.5",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-6.5: Child Day Care Grant Program",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-6.5/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250622222355/http://webserver.rilegislature.gov/Statutes/TITLE40/40-6.5/INDEX.htm",
+     "sha256": "c1a1a0ba42c7b26f7868b2b0f522020a38291e04f032b72fb49cb42251f9526a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0007",
+   "short": "R.I. Gen. Laws ch. 40-7",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-7: New England Welfare Compact",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-7/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250622222400/http://webserver.rilegislature.gov/Statutes/TITLE40/40-7/INDEX.htm",
+     "sha256": "4668575eae6c896bd8b01bac867c4d880125feb2fe0dbc23a9af694750523a61"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0008-0001",
+   "short": "R.I. Gen. Laws ch. 40-8.1",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.1: Personal Care Attendant Program",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-8.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250622222403/http://webserver.rilegislature.gov/Statutes/TITLE40/40-8.1/INDEX.htm",
+     "sha256": "8d2bd53c5b17b326fa3d2d529d1c88bea27e8f486f3674f834dda17ef180dace"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0008-0006",
+   "short": "R.I. Gen. Laws ch. 40-8.6",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.6: Special Program for Care of Severely Disabled Elderly Residents Who Need Nursing Facility Services",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-8.6/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250622222416/http://webserver.rilegislature.gov/Statutes/TITLE40/40-8.6/INDEX.htm",
+     "sha256": "8255933a9b19a8392a8022cc035699c85b0feddcf6a29c0e3b26afd4d764be2c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0008-0007",
+   "short": "R.I. Gen. Laws ch. 40-8.7",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.7: Healthcare Assistance for Working People with Disabilities",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-8.7/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250622222419/http://webserver.rilegislature.gov/Statutes/TITLE40/40-8.7/INDEX.htm",
+     "sha256": "bc08f69710d38edb18eb7730f61ee06e2887ee17329dd9ef19cacade6b8deba2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0008-0009",
+   "short": "R.I. Gen. Laws ch. 40-8.9",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.9: Medical Assistance - Long-Term Care Service and Finance Reform",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-8.9/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-01-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250622222423/http://webserver.rilegislature.gov/Statutes/TITLE40/40-8.9/INDEX.htm",
+     "sha256": "20edc56049a7780f5b0815c4bc8fcadd978a8e5d245e592bb5ec479718d1458d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0008-0011",
+   "short": "R.I. Gen. Laws ch. 40-8.11",
+   "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.11: Family Caregivers Support Act of 2013",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40/40-8.11/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250622222430/http://webserver.rilegislature.gov/Statutes/TITLE40/40-8.11/INDEX.htm",
+     "sha256": "c98c607d9438022cd34fbe18b655e0205251aa72fc69f23dbdc95e081a7fd601"
+    }
+   ]
+  },
+  {
    "slug": "chapter-0040-0014",
    "short": "R.I. Gen. Laws ch. 40-14",
    "title": "General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-14: Equipment Loan Fund for People with Disabilities",
@@ -1286,6 +1412,188 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20250622222516/http://webserver.rilegislature.gov/Statutes/TITLE40/40-20/INDEX.htm",
      "sha256": "dad07b4c5a6bd604d2e353279dc24aa6d3d36a0c0468e0969220a4dbb00c8f27"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0001-0003",
+   "short": "R.I. Gen. Laws ch. 40.1-3",
+   "title": "General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-3: Curative Services",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-3/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-01-24",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20251223032616/https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-3/INDEX.HTM",
+     "sha256": "073350b6a560ba0f43fb7d628a387757c70d2fb42aa9d5930a6b4d2f53a88af2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0001-0004",
+   "short": "R.I. Gen. Laws ch. 40.1-4",
+   "title": "General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-4: Alcoholism",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-4/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-04",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250622222530/https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-4/INDEX.HTM",
+     "sha256": "316583ebb21c4914e44da15098c531814474a64e98b1ddd0bfbc7db387b0a09d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0001-0005-0004",
+   "short": "R.I. Gen. Laws ch. 40.1-5.4",
+   "title": "General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-5.4: Division of Mental Health",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-5.4/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250622222547/https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-5.4/INDEX.HTM",
+     "sha256": "6a1a7613d0b6dbea97d70fcee3f49163bce6374de190078cdcc3330bae15bc69"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0001-0009",
+   "short": "R.I. Gen. Laws ch. 40.1-9",
+   "title": "General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-9: Interstate Compact on Mental Health",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-9/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260109103316/https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-9/INDEX.HTM",
+     "sha256": "530b40e310e73a82cadd83254178ee647143d5b5d41c663677624ba9163e7022"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0001-0021",
+   "short": "R.I. Gen. Laws ch. 40.1-21",
+   "title": "General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-21: Division of Developmental Disabilities",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-21/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-05-17",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260806200058/https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-21/INDEX.HTM",
+     "sha256": "b8cbf1684c18d55f4bd76f47a1239b913a0ed76935e28933de97d1f8a048f7fc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0001-0023",
+   "short": "R.I. Gen. Laws ch. 40.1-23",
+   "title": "General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-23: Parental Succession - Persons with Developmental Disabilities",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-23/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20250622222615/https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-23/INDEX.HTM",
+     "sha256": "530e2e5ca04322ab935e39ecfb1881897f3686eab1dc9f9a10dca026dd873d60"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0001-0024",
+   "short": "R.I. Gen. Laws ch. 40.1-24",
+   "title": "General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-24: Facilities and Programs",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-24/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20250622222617/https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-24/INDEX.HTM",
+     "sha256": "5656e61d86678cf3da3e2dec30a422e9108fb6259b3f2d2182a826eaec384348"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0001-0025",
+   "short": "R.I. Gen. Laws ch. 40.1-25",
+   "title": "General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-25: Protection and Advocacy System - Right of Access",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-25/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250622222629/https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-25/INDEX.HTM",
+     "sha256": "518c45d33147c5baad1ecf6f0247789497fe7de81e6b4b55f84dec96b7ae9d83"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040-0001-0027",
+   "short": "R.I. Gen. Laws ch. 40.1-27",
+   "title": "General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-27: Penalties for Abuse of Persons with Developmental Disabilities",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-27/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-08-30",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250625093250/https://webserver.rilegislature.gov/Statutes/TITLE40.1/40.1-27/INDEX.HTM",
+     "sha256": "45b7754859959eadc9c08fdf7ead289fa8a06200c6b2beb8e00cca48634d1974"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0042-0017-0004",
+   "short": "R.I. Gen. Laws ch. 42-17.4",
+   "title": "General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-17.4: Wastewater Treatment Plants",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE42/42-17.4/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260121070517/http://webserver.rilegislature.gov/Statutes/TITLE42/42-17.4/INDEX.HTM",
+     "sha256": "2b8f9105c2a7cb13ca50427e89d2c2726d8234b089234441d071b29a7d240d16"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0042-0045",
+   "short": "R.I. Gen. Laws ch. 42-45",
+   "title": "General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-45: Rhode Island Historical Preservation and Heritage Commission",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE42/42-45/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260123051038/http://webserver.rilegislature.gov/Statutes/TITLE42/42-45/INDEX.HTM",
+     "sha256": "a910a400ae563236d78aead67dcba7531ac55854073b8227348f01ca428cf466"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0042-0046",
+   "short": "R.I. Gen. Laws ch. 42-46",
+   "title": "General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-46: Open Meetings",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE42/42-46/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-12",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260613130149/http://webserver.rilegislature.gov/Statutes/TITLE42/42-46/INDEX.htm",
+     "sha256": "4a90f0aa0538e9b1b977425cb72826c1319a99f9aa2fb3592028572dc66306bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0042-0166",
+   "short": "R.I. Gen. Laws ch. 42-166",
+   "title": "General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-166: The Ladders to Licensure Program",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE42/42-166/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-03-30",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20260123055753/https://webserver.rilegislature.gov/Statutes/TITLE42/42-166/INDEX.htm",
+     "sha256": "316b1293ed2baffb6bbdbb4b608e86c43c5d769572aa139a73a7b92532960e8b"
     }
    ]
   }

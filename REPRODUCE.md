@@ -102,16 +102,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0039-0001-0002` | General Laws of Rhode Island, Title 39 (Public Utilities and Carriers), Chapter 39-1.2: Excavation near Underground Utility Facilities | 1 | 2026-09-10 to 2026-09-10 |
 | `chapter-0039-0021-0001` | General Laws of Rhode Island, Title 39 (Public Utilities and Carriers), Chapter 39-21.1: 911 Emergency Telephone Number Act | 1 | 2026-10-17 to 2026-10-17 |
 | `chapter-0039-0027-0001` | General Laws of Rhode Island, Title 39 (Public Utilities and Carriers), Chapter 39-27.1: Appliance and Equipment Energy and Water Efficiency Standards Act of 2021 | 1 | 2026-07-14 to 2026-07-14 |
+| `chapter-0040-0005` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-5: Support of the Needy | 1 | 2025-04-19 to 2025-04-19 |
+| `chapter-0040-0006` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-6: Public Assistance Act | 1 | 2026-03-05 to 2026-03-05 |
+| `chapter-0040-0006-0005` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-6.5: Child Day Care Grant Program | 1 | 2025-03-31 to 2025-03-31 |
+| `chapter-0040-0007` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-7: New England Welfare Compact | 1 | 2026-10-17 to 2026-10-17 |
+| `chapter-0040-0008-0001` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.1: Personal Care Attendant Program | 1 | 2025-04-02 to 2025-04-02 |
+| `chapter-0040-0008-0006` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.6: Special Program for Care of Severely Disabled Elderly Residents Who Need Nursing Facility Services | 1 | 2026-08-25 to 2026-08-25 |
+| `chapter-0040-0008-0007` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.7: Healthcare Assistance for Working People with Disabilities | 1 | 2026-10-12 to 2026-10-12 |
+| `chapter-0040-0008-0009` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.9: Medical Assistance - Long-Term Care Service and Finance Reform | 1 | 2026-01-10 to 2026-01-10 |
+| `chapter-0040-0008-0011` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-8.11: Family Caregivers Support Act of 2013 | 1 | 2025-04-14 to 2025-04-14 |
 | `chapter-0040-0014` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-14: Equipment Loan Fund for People with Disabilities | 1 | 2026-07-14 to 2026-07-14 |
 | `chapter-0040-0018` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-18: Long-Term Home Health Care - Alternative to Placement in Skilled Nursing or Intermediate Care Facility | 1 | 2025-03-30 to 2025-03-30 |
 | `chapter-0040-0019-0001` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-19.1: Teen Pregnancy Prevention Partnership Act | 1 | 2025-03-30 to 2025-03-30 |
 | `chapter-0040-0020` | General Laws of Rhode Island, Title 40 (Human Services), Chapter 40-20: Long-Term Care System Planning | 1 | 2025-03-31 to 2025-03-31 |
+| `chapter-0040-0001-0003` | General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-3: Curative Services | 1 | 2026-01-24 to 2026-01-24 |
+| `chapter-0040-0001-0004` | General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-4: Alcoholism | 1 | 2026-10-04 to 2026-10-04 |
+| `chapter-0040-0001-0005-0004` | General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-5.4: Division of Mental Health | 1 | 2026-10-16 to 2026-10-16 |
+| `chapter-0040-0001-0009` | General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-9: Interstate Compact on Mental Health | 1 | 2025-04-02 to 2025-04-02 |
+| `chapter-0040-0001-0021` | General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-21: Division of Developmental Disabilities | 1 | 2026-05-17 to 2026-05-17 |
+| `chapter-0040-0001-0023` | General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-23: Parental Succession - Persons with Developmental Disabilities | 1 | 2026-09-30 to 2026-09-30 |
+| `chapter-0040-0001-0024` | General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-24: Facilities and Programs | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0040-0001-0025` | General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-25: Protection and Advocacy System - Right of Access | 1 | 2026-05-13 to 2026-05-13 |
+| `chapter-0040-0001-0027` | General Laws of Rhode Island, Title 40.1 (Behavioral Healthcare, Developmental Disabilities and Hospitals), Chapter 40.1-27: Penalties for Abuse of Persons with Developmental Disabilities | 1 | 2026-08-30 to 2026-08-30 |
+| `chapter-0042-0017-0004` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-17.4: Wastewater Treatment Plants | 1 | 2026-06-29 to 2026-06-29 |
+| `chapter-0042-0045` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-45: Rhode Island Historical Preservation and Heritage Commission | 1 | 2026-02-03 to 2026-02-03 |
+| `chapter-0042-0046` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-46: Open Meetings | 1 | 2026-09-12 to 2026-09-12 |
+| `chapter-0042-0166` | General Laws of Rhode Island, Title 42 (State Affairs and Government), Chapter 42-166: The Ladders to Licensure Program | 1 | 2025-03-30 to 2025-03-30 |
 
-The build made 92 commits:
+The build made 114 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 92 | first version of an act |
+| 114 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -119,7 +141,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 92 tags.
+- 114 tags.
 
 ## Dates
 
@@ -131,7 +153,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `546570fb0dd0d1f588df3bdd16d782d1ffb48d172dd7df57adab6977d4f24a75` (1946963 bytes).
+- Corpus: sha256 `159b6f2d627d7f762209fcc37a3d7b5b315ac5f1a68271ae0009356e5cc6c6ef` (2347375 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
