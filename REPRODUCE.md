@@ -41,6 +41,9 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0005-0053-0001` | General Laws of Rhode Island, Title 5 (Businesses and Professions), Chapter 5-53.1: Solicitation by Charitable Organizations | 1 | 2026-06-21 to 2026-06-21 |
 | `chapter-0005-0084` | General Laws of Rhode Island, Title 5 (Businesses and Professions), Chapter 5-84: Division of Building, Design and Fire Professionals | 1 | 2026-02-09 to 2026-02-09 |
 | `chapter-0006-0040-0001` | General Laws of Rhode Island, Title 6 (Commercial Law - General Regulatory Provisions), Chapter 6-40.1: Senior Savings Protection Act | 1 | 2026-10-25 to 2026-10-25 |
+| `chapter-0006-0041` | General Laws of Rhode Island, Title 6 (Commercial Law - General Regulatory Provisions), Chapter 6-41: Uniform Trade Secrets Act | 1 | 2026-09-19 to 2026-09-19 |
+| `chapter-0007-0012` | General Laws of Rhode Island, Title 7 (Corporations, Associations, and Partnerships), Chapter 7-12: Partnerships | 1 | 2026-01-22 to 2026-01-22 |
+| `chapter-0007-0016` | General Laws of Rhode Island, Title 7 (Corporations, Associations, and Partnerships), Chapter 7-16: The Rhode Island Limited Liability Company Act | 1 | 2026-10-13 to 2026-10-13 |
 | `chapter-0011-0052` | General Laws of Rhode Island, Title 11 (Criminal Offenses), Chapter 11-52: Computer Crime | 1 | 2026-04-10 to 2026-04-10 |
 | `chapter-0012-0001-0005` | General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-1.5: DNA Detection of Sexual and Violent Offenders | 1 | 2025-04-05 to 2025-04-05 |
 | `chapter-0012-0007` | General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-7: Arrest | 1 | 2026-08-22 to 2026-08-22 |
@@ -172,11 +175,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0046-0023-0004` | General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-23.4: Act on Coasts - Coastal Resiliency | 1 | 2026-08-08 to 2026-08-08 |
 | `chapter-0046-0033` | General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-33: Freshwater Lake Management Program | 1 | 2025-02-14 to 2025-02-14 |
 
-The build made 157 commits:
+The build made 160 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 157 | first version of an act |
+| 160 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -184,7 +187,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 157 tags.
+- 160 tags.
 
 ## Dates
 
@@ -196,7 +199,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1394894b089beaacb6b6dcd16f03364ac0b8e5157231946332762e7c7ac9283d` (3100474 bytes).
+- Corpus: sha256 `56ba10a1ca9f083692658de9c5799a65f36da045d54ae86f74b453815f4327c4` (3279821 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

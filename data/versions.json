@@ -380,6 +380,48 @@
    ]
   },
   {
+   "slug": "chapter-0006-0041",
+   "short": "R.I. Gen. Laws ch. 6-41",
+   "title": "General Laws of Rhode Island, Title 6 (Commercial Law - General Regulatory Provisions), Chapter 6-41: Uniform Trade Secrets Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-41/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-19",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20251001113921/https://webserver.rilegislature.gov/Statutes/TITLE6/6-41/INDEX.htm",
+     "sha256": "d26e80a3a63cec78d0221a421f413b3c52fa4ccd0310edcc7cd9dda5ea9484cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0007-0012",
+   "short": "R.I. Gen. Laws ch. 7-12",
+   "title": "General Laws of Rhode Island, Title 7 (Corporations, Associations, and Partnerships), Chapter 7-12: Partnerships",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE7/7-12/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 61,
+     "source_url": "https://web.archive.org/web/20260519191530/http://webserver.rilegislature.gov/Statutes/TITLE7/7-12/INDEX.htm",
+     "sha256": "7ef8c3795e4d129d952a933bd75b025d13a8392d0b2bb6ea25c8e998917b9c98"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0007-0016",
+   "short": "R.I. Gen. Laws ch. 7-16",
+   "title": "General Laws of Rhode Island, Title 7 (Corporations, Associations, and Partnerships), Chapter 7-16: The Rhode Island Limited Liability Company Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE7/7-16/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 86,
+     "source_url": "https://web.archive.org/web/20250619120317/http://webserver.rilegislature.gov/Statutes/TITLE7/7-16/INDEX.htm",
+     "sha256": "98c79b929977da6c736cdc887c47c5e79ca79d17de34e1dd9980f8e79a4c86e5"
+    }
+   ]
+  },
+  {
    "slug": "chapter-0011-0052",
    "short": "R.I. Gen. Laws ch. 11-52",
    "title": "General Laws of Rhode Island, Title 11 (Criminal Offenses), Chapter 11-52: Computer Crime",
