@@ -912,6 +912,34 @@
    ]
   },
   {
+   "slug": "chapter-0028-0005",
+   "short": "R.I. Gen. Laws ch. 28-5",
+   "title": "General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-5: Fair Employment Practices",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE28/28-5/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20250620131443/http://webserver.rilegislature.gov/Statutes/TITLE28/28-5/INDEX.HTM",
+     "sha256": "45c0a027a1fab853164666a2f7687e2e265cbf81d8aa7113b36aab5e158d5f38"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0028-0006",
+   "short": "R.I. Gen. Laws ch. 28-6",
+   "title": "General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-6: Wage Discrimination Based on Sex",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE28/28-6/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20260309071345/http://webserver.rilegislature.gov/Statutes/TITLE28/28-6/INDEX.htm",
+     "sha256": "412a998e35b4aad154974325031e07b740c201b8de97ef397e3b08145e13ffd7"
+    }
+   ]
+  },
+  {
    "slug": "chapter-0028-0039",
    "short": "R.I. Gen. Laws ch. 28-39",
    "title": "General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-39: Temporary Disability Insurance - General Provisions",
@@ -936,6 +964,118 @@
      "units": 26,
      "source_url": "https://web.archive.org/web/20250718204619/http://webserver.rilegislature.gov/Statutes/TITLE28/28-40/INDEX.HTM",
      "sha256": "da8c5e336b7ac28b0231f249d1d7a44253a13d1625f0ac80ce3dec1ad3baa4a8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0028-0042",
+   "short": "R.I. Gen. Laws ch. 28-42",
+   "title": "General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-42: Employment Security - General Provisions",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE28/28-42/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 97,
+     "source_url": "https://web.archive.org/web/20260828163833/http://webserver.rilegislature.gov/Statutes/TITLE28/28-42/INDEX.HTM",
+     "sha256": "3693730b450732f5c1e51fbc4279f1daa7ff7305684e4512e6d734becc37794a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0028-0043",
+   "short": "R.I. Gen. Laws ch. 28-43",
+   "title": "General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-43: Employment Security - Contributions",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE28/28-43/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260519192427/http://webserver.rilegislature.gov/Statutes/TITLE28/28-43/INDEX.HTM",
+     "sha256": "05a238955729b7f22da9eb411e3918e4b69b1f034aacef0a52f91e637a8e2f96"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0028-0044",
+   "short": "R.I. Gen. Laws ch. 28-44",
+   "title": "General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-44: Employment Security - Benefits",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE28/28-44/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20260118150633/http://webserver.rilegislature.gov/Statutes/TITLE28/28-44/INDEX.HTM",
+     "sha256": "7d042068389404c62d63f578a11f1ef8cb1b54660e2f8b4651ba2f154c483a82"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0028-0060",
+   "short": "R.I. Gen. Laws ch. 28-60",
+   "title": "General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-60: Posting of Veterans' Benefits and Services",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE28/28-60/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250620132111/https://webserver.rilegislature.gov/Statutes/TITLE28/28-60/INDEX.htm",
+     "sha256": "8418c051640b5b33b96f92b08efd07122fb45e5641f0e7ff18d6b3a9c91354da"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0031-0010-0004",
+   "short": "R.I. Gen. Laws ch. 31-10.4",
+   "title": "General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-10.4: Driver Privilege Cards and Permits; State Identification Cards",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-10.4/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250622221121/https://webserver.rilegislature.gov/Statutes/TITLE31/31-10.4/INDEX.htm",
+     "sha256": "68efe645b535cd8b99772decfcc4f4fe3336a642d8b6a497fa69f7f0a4fda41c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0031-0019-0007",
+   "short": "R.I. Gen. Laws ch. 31-19.7",
+   "title": "General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-19.7: Electric Bicycles",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-19.7/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250622221157/https://webserver.rilegislature.gov/Statutes/TITLE31/31-19.7/INDEX.htm",
+     "sha256": "503cfb3a455bd977e78cce1e6c7b693d0e7d82f0c980b94f39ee037e2ba0c7e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0031-0021-0002",
+   "short": "R.I. Gen. Laws ch. 31-21.2",
+   "title": "General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-21.2: Comprehensive Community-Police Relationship Act of 2015",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-21.2/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260519185450/https://webserver.rilegislature.gov/Statutes/TITLE31/31-21.2/INDEX.htm",
+     "sha256": "5c8c7ce1f17f0ce16462811c4956bad215ff7992d25bbc0e3d9896f2329cb69d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0031-0026",
+   "short": "R.I. Gen. Laws ch. 31-26",
+   "title": "General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-26: Accidents and Accident Reports",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-26/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250622221224/https://webserver.rilegislature.gov/Statutes/TITLE31/31-26/INDEX.htm",
+     "sha256": "fe7a8afbaa9f57b6ec480cea7e92bead898190409e05ab2e5f4d2b2964447b75"
     }
    ]
   }

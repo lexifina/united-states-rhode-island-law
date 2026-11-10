@@ -79,14 +79,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0027-0002-0006` | General Laws of Rhode Island, Title 27 (Insurance), Chapter 27-2.6: Rhode Island Title Insurers Act | 1 | 2026-10-30 to 2026-10-30 |
 | `chapter-0027-0020-0007` | General Laws of Rhode Island, Title 27 (Insurance), Chapter 27-20.7: Third-Party Health Insurance Administrators | 1 | 2026-10-22 to 2026-10-22 |
 | `chapter-0027-0081` | General Laws of Rhode Island, Title 27 (Insurance), Chapter 27-81: Telemedicine Coverage Act | 1 | 2026-09-02 to 2026-09-02 |
+| `chapter-0028-0005` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-5: Fair Employment Practices | 1 | 2026-10-31 to 2026-10-31 |
+| `chapter-0028-0006` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-6: Wage Discrimination Based on Sex | 1 | 2026-09-10 to 2026-09-10 |
 | `chapter-0028-0039` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-39: Temporary Disability Insurance - General Provisions | 1 | 2026-10-27 to 2026-10-27 |
 | `chapter-0028-0040` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-40: Temporary Disability Insurance - Contributions | 1 | 2026-10-19 to 2026-10-19 |
+| `chapter-0028-0042` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-42: Employment Security - General Provisions | 1 | 2026-10-27 to 2026-10-27 |
+| `chapter-0028-0043` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-43: Employment Security - Contributions | 1 | 2026-10-26 to 2026-10-26 |
+| `chapter-0028-0044` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-44: Employment Security - Benefits | 1 | 2026-10-15 to 2026-10-15 |
+| `chapter-0028-0060` | General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-60: Posting of Veterans' Benefits and Services | 1 | 2025-03-31 to 2025-03-31 |
+| `chapter-0031-0010-0004` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-10.4: Driver Privilege Cards and Permits; State Identification Cards | 1 | 2026-10-16 to 2026-10-16 |
+| `chapter-0031-0019-0007` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-19.7: Electric Bicycles | 1 | 2026-10-14 to 2026-10-14 |
+| `chapter-0031-0021-0002` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-21.2: Comprehensive Community-Police Relationship Act of 2015 | 1 | 2026-09-22 to 2026-09-22 |
+| `chapter-0031-0026` | General Laws of Rhode Island, Title 31 (Motor and Other Vehicles), Chapter 31-26: Accidents and Accident Reports | 1 | 2026-10-18 to 2026-10-18 |
 
-The build made 67 commits:
+The build made 77 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 67 | first version of an act |
+| 77 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -94,7 +104,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 67 tags.
+- 77 tags.
 
 ## Dates
 
@@ -106,7 +116,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f0f0343c070495be0093fceaade655c5e31399387dff5786faa0c5ca033e44d9` (1025960 bytes).
+- Corpus: sha256 `5637577115ab257e2b6cf5da7f17c302125f2a3593cb836948dea94b6b3e49e1` (1604982 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

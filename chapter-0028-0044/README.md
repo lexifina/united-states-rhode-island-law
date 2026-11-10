@@ -1,0 +1,71 @@
+# General Laws of Rhode Island, Title 28 (Labor and Labor Relations), Chapter 28-44: Employment Security - Benefits
+
+R.I. Gen. Laws ch. 28-44 · 1 versions, from 2026-10-15 (latest in force: 2026-10-15) · <https://webserver.rilegislature.gov/Statutes/TITLE28/28-44/INDEX.htm>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| R.I. Gen. Laws § 28-44-1 | [sec-0001.md](sec-0001.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-2 | [sec-0002.md](sec-0002.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-3 | [sec-0003.md](sec-0003.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-3.1 | [sec-0003-0001.md](sec-0003-0001.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-4 | [sec-0004.md](sec-0004.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-5 | [sec-0005.md](sec-0005.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-6 | [sec-0006.md](sec-0006.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-7 | [sec-0007.md](sec-0007.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-8 | [sec-0008.md](sec-0008.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-9 | [sec-0009.md](sec-0009.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-10 | [sec-0010.md](sec-0010.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-11 | [sec-0011.md](sec-0011.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-12 | [sec-0012.md](sec-0012.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-13 | [sec-0013.md](sec-0013.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-14 | [sec-0014.md](sec-0014.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-15 | [sec-0015.md](sec-0015.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-16 | [sec-0016.md](sec-0016.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-17 | [sec-0017.md](sec-0017.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-17.1 | [sec-0017-0001.md](sec-0017-0001.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-18 | [sec-0018.md](sec-0018.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-19 | [sec-0019.md](sec-0019.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-19.1 | [sec-0019-0001.md](sec-0019-0001.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-20 | [sec-0020.md](sec-0020.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-21 | [sec-0021.md](sec-0021.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-22 | [sec-0022.md](sec-0022.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-24 | [sec-0024.md](sec-0024.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-25 | [sec-0025.md](sec-0025.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-37 | [sec-0037.md](sec-0037.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-38 | [sec-0038.md](sec-0038.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-39 | [sec-0039.md](sec-0039.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-40 | [sec-0040.md](sec-0040.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-41 | [sec-0041.md](sec-0041.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-42 | [sec-0042.md](sec-0042.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-43 | [sec-0043.md](sec-0043.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-44 | [sec-0044.md](sec-0044.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-45 | [sec-0045.md](sec-0045.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-46 | [sec-0046.md](sec-0046.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-47 | [sec-0047.md](sec-0047.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-48 | [sec-0048.md](sec-0048.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-49 | [sec-0049.md](sec-0049.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-50 | [sec-0050.md](sec-0050.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-50.1 | [sec-0050-0001.md](sec-0050-0001.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-51 | [sec-0051.md](sec-0051.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-52 | [sec-0052.md](sec-0052.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-53 | [sec-0053.md](sec-0053.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-54 | [sec-0054.md](sec-0054.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-55 | [sec-0055.md](sec-0055.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-56 | [sec-0056.md](sec-0056.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-57 | [sec-0057.md](sec-0057.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-58 | [sec-0058.md](sec-0058.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-58.1 | [sec-0058-0001.md](sec-0058-0001.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-58.2 | [sec-0058-0002.md](sec-0058-0002.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-59 | [sec-0059.md](sec-0059.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-60 | [sec-0060.md](sec-0060.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-61 | [sec-0061.md](sec-0061.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-62 | [sec-0062.md](sec-0062.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-63 | [sec-0063.md](sec-0063.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-63.1 | [sec-0063-0001.md](sec-0063-0001.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-64 | [sec-0064.md](sec-0064.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-66 | [sec-0066.md](sec-0066.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-67 | [sec-0067.md](sec-0067.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-68 | [sec-0068.md](sec-0068.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-69 | [sec-0069.md](sec-0069.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-70 | [sec-0070.md](sec-0070.md) | 0 |  |
+| R.I. Gen. Laws § 28-44-71 | [sec-0071.md](sec-0071.md) | 0 |  |
