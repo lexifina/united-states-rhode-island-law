@@ -37,6 +37,10 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0001-0006` | General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-6: Warwick Airport Parking District | 1 | 2026-01-23 to 2026-01-23 |
 | `chapter-0001-0007` | General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-7: The Permanent Air Quality Monitoring Act | 1 | 2026-06-13 to 2026-06-13 |
 | `chapter-0001-0008` | General Laws of Rhode Island, Title 1 (Aeronautics), Chapter 1-8: Unpiloted Aerial Vehicles | 1 | 2026-05-15 to 2026-05-15 |
+| `chapter-0005-0031-0001` | General Laws of Rhode Island, Title 5 (Businesses and Professions), Chapter 5-31.1: Dentists and Dental Hygienists | 1 | 2026-10-27 to 2026-10-27 |
+| `chapter-0005-0053-0001` | General Laws of Rhode Island, Title 5 (Businesses and Professions), Chapter 5-53.1: Solicitation by Charitable Organizations | 1 | 2026-06-21 to 2026-06-21 |
+| `chapter-0005-0084` | General Laws of Rhode Island, Title 5 (Businesses and Professions), Chapter 5-84: Division of Building, Design and Fire Professionals | 1 | 2026-02-09 to 2026-02-09 |
+| `chapter-0006-0040-0001` | General Laws of Rhode Island, Title 6 (Commercial Law - General Regulatory Provisions), Chapter 6-40.1: Senior Savings Protection Act | 1 | 2026-10-25 to 2026-10-25 |
 | `chapter-0011-0052` | General Laws of Rhode Island, Title 11 (Criminal Offenses), Chapter 11-52: Computer Crime | 1 | 2026-04-10 to 2026-04-10 |
 | `chapter-0012-0001-0005` | General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-1.5: DNA Detection of Sexual and Violent Offenders | 1 | 2025-04-05 to 2025-04-05 |
 | `chapter-0012-0007` | General Laws of Rhode Island, Title 12 (Criminal Procedure), Chapter 12-7: Arrest | 1 | 2026-08-22 to 2026-08-22 |
@@ -149,12 +153,30 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0044-0046` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-46: Adult Education Tax Credit | 1 | 2026-06-08 to 2026-06-08 |
 | `chapter-0044-0047` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-47: Adult and Child Day Care Assistance and Development Tax Credit | 1 | 2026-07-03 to 2026-07-03 |
 | `chapter-0044-0048-0001` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-48.1: Tax Expenditure Reporting | 1 | 2025-02-26 to 2025-02-26 |
+| `chapter-0044-0049` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-49: Controlled Substances Taxation Act | 1 | 2026-01-26 to 2026-01-26 |
+| `chapter-0044-0051` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-51: Nursing Facility Provider Assessment Act | 1 | 2026-10-24 to 2026-10-24 |
+| `chapter-0044-0054` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-54: Disabled Access Credit for Small Businesses | 1 | 2025-05-05 to 2025-05-05 |
+| `chapter-0044-0060` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-60: Borrowing in Anticipation of Taxes | 1 | 2026-06-02 to 2026-06-02 |
+| `chapter-0044-0061` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-61: Relating to Depreciation of Assets and Net Operating Loss Deduction | 1 | 2026-06-25 to 2026-06-25 |
+| `chapter-0044-0062` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-62: Tax Credits for Contributions to Scholarship Organizations | 1 | 2026-10-22 to 2026-10-22 |
+| `chapter-0044-0065` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-65: Imaging Services Surcharge | 1 | 2026-10-12 to 2026-10-12 |
+| `chapter-0044-0066` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-66: Recognition of Income from Discharge of Business Indebtedness | 1 | 2026-08-14 to 2026-08-14 |
+| `chapter-0044-0069` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-69: Compliance of Public Employees with State Income Tax Act | 1 | 2026-04-15 to 2026-04-15 |
+| `chapter-0044-0070` | General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-70: Cannabis Tax | 1 | 2026-10-18 to 2026-10-18 |
+| `chapter-0045-0024-0007` | General Laws of Rhode Island, Title 45 (Towns and Cities), Chapter 45-24.7: Outdoor Dining Act | 1 | 2026-03-08 to 2026-03-08 |
+| `chapter-0045-0053` | General Laws of Rhode Island, Title 45 (Towns and Cities), Chapter 45-53: Low and Moderate Income Housing | 1 | 2026-10-29 to 2026-10-29 |
+| `chapter-0045-0070` | General Laws of Rhode Island, Title 45 (Towns and Cities), Chapter 45-70: Continuing Education for Local Planning and Zoning Boards and Historic District Commissions | 1 | 2026-05-14 to 2026-05-14 |
+| `chapter-0046-0012-0009` | General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-12.9: Rhode Island Underground Storage Tank Financial Responsibility Act | 1 | 2026-10-24 to 2026-10-24 |
+| `chapter-0046-0015-0007` | General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-15.7: Management of the Withdrawal and Use of the Waters of the State | 1 | 2026-10-12 to 2026-10-12 |
+| `chapter-0046-0015-0008` | General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-15.8: Water Use and Efficiency Act | 1 | 2025-03-30 to 2025-03-30 |
+| `chapter-0046-0023-0004` | General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-23.4: Act on Coasts - Coastal Resiliency | 1 | 2026-08-08 to 2026-08-08 |
+| `chapter-0046-0033` | General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-33: Freshwater Lake Management Program | 1 | 2025-02-14 to 2025-02-14 |
 
-The build made 135 commits:
+The build made 157 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 135 | first version of an act |
+| 157 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -162,7 +184,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 135 tags.
+- 157 tags.
 
 ## Dates
 
@@ -174,7 +196,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8e5c5f89118474653eb7e5a80265abfe3d3a8b59cb1e1c78c645d87531b5352c` (2651440 bytes).
+- Corpus: sha256 `1394894b089beaacb6b6dcd16f03364ac0b8e5157231946332762e7c7ac9283d` (3100474 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

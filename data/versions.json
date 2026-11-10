@@ -324,6 +324,62 @@
    ]
   },
   {
+   "slug": "chapter-0005-0031-0001",
+   "short": "R.I. Gen. Laws ch. 5-31.1",
+   "title": "General Laws of Rhode Island, Title 5 (Businesses and Professions), Chapter 5-31.1: Dentists and Dental Hygienists",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE5/5-31.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260429110232/http://webserver.rilegislature.gov/Statutes/TITLE5/5-31.1/INDEX.HTM",
+     "sha256": "d474eab11869663c89783e74acd16f0a1a7f49a060044232db1d5d650fa4ad0f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0005-0053-0001",
+   "short": "R.I. Gen. Laws ch. 5-53.1",
+   "title": "General Laws of Rhode Island, Title 5 (Businesses and Professions), Chapter 5-53.1: Solicitation by Charitable Organizations",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE5/5-53.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20250610104433/http://webserver.rilegislature.gov/Statutes/TITLE5/5-53.1/INDEX.HTM",
+     "sha256": "b379e8ea9e44a3997aeef3f5e4c85714e79d37805a104a1a029ed439404f68be"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0005-0084",
+   "short": "R.I. Gen. Laws ch. 5-84",
+   "title": "General Laws of Rhode Island, Title 5 (Businesses and Professions), Chapter 5-84: Division of Building, Design and Fire Professionals",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE5/5-84/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250610104652/https://webserver.rilegislature.gov/Statutes/TITLE5/5-84/INDEX.HTM",
+     "sha256": "0e7f165beb1da5eb43946c6d1124fd6f7474938ff4e2509b192effaaeb68011c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0006-0040-0001",
+   "short": "R.I. Gen. Laws ch. 6-40.1",
+   "title": "General Laws of Rhode Island, Title 6 (Commercial Law - General Regulatory Provisions), Chapter 6-40.1: Senior Savings Protection Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE6/6-40.1/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260908083251/https://webserver.rilegislature.gov/Statutes/TITLE6/6-40.1/INDEX.htm",
+     "sha256": "8ac641022c5c7cc742daabd42a32b304a83ddb6264649aa074a6f25de23dafbf"
+    }
+   ]
+  },
+  {
    "slug": "chapter-0011-0052",
    "short": "R.I. Gen. Laws ch. 11-52",
    "title": "General Laws of Rhode Island, Title 11 (Criminal Offenses), Chapter 11-52: Computer Crime",
@@ -1888,6 +1944,258 @@
      "units": 1,
      "source_url": "https://web.archive.org/web/20250625095434/https://webserver.rilegislature.gov/Statutes/TITLE44/44-48.1/INDEX.HTM",
      "sha256": "8587bda1aebd1736274804b72426b2d853eefc06055efca586521831c5a2006e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0049",
+   "short": "R.I. Gen. Laws ch. 44-49",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-49: Controlled Substances Taxation Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-49/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250625095439/https://webserver.rilegislature.gov/Statutes/TITLE44/44-49/INDEX.HTM",
+     "sha256": "dd5f5ad62aa3546dbb346590cf6dcb1c278a11443e0b4f867e7e8acae317e42d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0051",
+   "short": "R.I. Gen. Laws ch. 44-51",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-51: Nursing Facility Provider Assessment Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-51/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250712222033/https://webserver.rilegislature.gov/Statutes/TITLE44/44-51/INDEX.HTM",
+     "sha256": "23d201917782f900150b0a9ff29128aca7b95123915e41a599e63d6f1d4f6bdc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0054",
+   "short": "R.I. Gen. Laws ch. 44-54",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-54: Disabled Access Credit for Small Businesses",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-54/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250625095452/https://webserver.rilegislature.gov/Statutes/TITLE44/44-54/INDEX.HTM",
+     "sha256": "f6fff48d2392526b14a90116736c53ca2d76dc51d571aa56ea10cae326235c98"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0060",
+   "short": "R.I. Gen. Laws ch. 44-60",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-60: Borrowing in Anticipation of Taxes",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-60/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20251223125119/https://webserver.rilegislature.gov/Statutes/TITLE44/44-60/INDEX.HTM",
+     "sha256": "900e39129c6918ed611836f74c833fd4d9f770d92abe409d7e908743dae36660"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0061",
+   "short": "R.I. Gen. Laws ch. 44-61",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-61: Relating to Depreciation of Assets and Net Operating Loss Deduction",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-61/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250806145235/https://webserver.rilegislature.gov/Statutes/TITLE44/44-61/INDEX.HTM",
+     "sha256": "85f6a9f9731bc154bbcf5eeb9d17242eeb7a977c096e74c63c1d0fb8cb95e4a9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0062",
+   "short": "R.I. Gen. Laws ch. 44-62",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-62: Tax Credits for Contributions to Scholarship Organizations",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-62/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260118084511/https://webserver.rilegislature.gov/Statutes/TITLE44/44-62/INDEX.HTM",
+     "sha256": "fdddfe35ab02870854d7ad0f891b2021c7fcdbb1c51e8a7b14a4a4f904bab6bb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0065",
+   "short": "R.I. Gen. Laws ch. 44-65",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-65: Imaging Services Surcharge",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-65/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20250625095514/https://webserver.rilegislature.gov/Statutes/TITLE44/44-65/INDEX.HTM",
+     "sha256": "d9854197ba5af1daf8502da51e4f3cae8e86de6644ee3eae46acedfca9ee66a3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0066",
+   "short": "R.I. Gen. Laws ch. 44-66",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-66: Recognition of Income from Discharge of Business Indebtedness",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-66/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250625095517/https://webserver.rilegislature.gov/Statutes/TITLE44/44-66/INDEX.HTM",
+     "sha256": "9346acd310dcb8687d12bde6e6505007b8a721faa082b2baaa9461e289971a4c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0069",
+   "short": "R.I. Gen. Laws ch. 44-69",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-69: Compliance of Public Employees with State Income Tax Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-69/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250625095522/https://webserver.rilegislature.gov/Statutes/TITLE44/44-69/INDEX.HTM",
+     "sha256": "08bfe306b3a346bd8fbcdd8e3f64ece2d37c7b578dce4d77e5f39c36ad026535"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044-0070",
+   "short": "R.I. Gen. Laws ch. 44-70",
+   "title": "General Laws of Rhode Island, Title 44 (Taxation), Chapter 44-70: Cannabis Tax",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE44/44-70/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-18",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260315084717/http://webserver.rilegislature.gov/Statutes/TITLE44/44-70/INDEX.htm",
+     "sha256": "b65c1ef51b62e61d5a41c42d9b937e06453d39bf7398880a04da6b31488eabc7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0045-0024-0007",
+   "short": "R.I. Gen. Laws ch. 45-24.7",
+   "title": "General Laws of Rhode Island, Title 45 (Towns and Cities), Chapter 45-24.7: Outdoor Dining Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE45/45-24.7/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-03-08",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250625095734/https://webserver.rilegislature.gov/Statutes/TITLE45/45-24.7/INDEX.htm",
+     "sha256": "7395dd6cdc91195cb3e6c8e59a2c002d50368b72ad1bcbd90b390d506d1fd135"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0045-0053",
+   "short": "R.I. Gen. Laws ch. 45-53",
+   "title": "General Laws of Rhode Island, Title 45 (Towns and Cities), Chapter 45-53: Low and Moderate Income Housing",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE45/45-53/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260119181233/http://webserver.rilegislature.gov/Statutes/TITLE45/45-53/INDEX.htm",
+     "sha256": "6ebf8d709c05c6bad15bf6d8404a2410fe409c1d93f0f62deeb0f488e8a5e7e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0045-0070",
+   "short": "R.I. Gen. Laws ch. 45-70",
+   "title": "General Laws of Rhode Island, Title 45 (Towns and Cities), Chapter 45-70: Continuing Education for Local Planning and Zoning Boards and Historic District Commissions",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE45/45-70/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20260311215059/http://webserver.rilegislature.gov/Statutes/TITLE45/45-70/INDEX.htm",
+     "sha256": "15f651b78049d351146cab70df81b541115cfc5d000943afc33da1f1ca014ea2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0046-0012-0009",
+   "short": "R.I. Gen. Laws ch. 46-12.9",
+   "title": "General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-12.9: Rhode Island Underground Storage Tank Financial Responsibility Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE46/46-12.9/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-24",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260114035023/http://webserver.rilegislature.gov/Statutes/TITLE46/46-12.9/INDEX.HTM",
+     "sha256": "b431eed2fed85e5a5e878e4072cf0735dfc9e91f5d3cf5e13412b2a653ac4486"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0046-0015-0007",
+   "short": "R.I. Gen. Laws ch. 46-15.7",
+   "title": "General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-15.7: Management of the Withdrawal and Use of the Waters of the State",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE46/46-15.7/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-10-12",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251211213811/http://webserver.rilegislature.gov/Statutes/TITLE46/46-15.7/INDEX.htm",
+     "sha256": "b3cc541f567aae7881a84f448563b096cfc280f8e85a8d60af3e2cdf60b0befd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0046-0015-0008",
+   "short": "R.I. Gen. Laws ch. 46-15.8",
+   "title": "General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-15.8: Water Use and Efficiency Act",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE46/46-15.8/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-03-30",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250627210248/http://webserver.rilegislature.gov/statutes/title46/46-15.8/INDEX.HTM",
+     "sha256": "f0e16d4c4f9137c9a9268be11b5db0e13b26c2d6aaed44c2f5f068acb382ef7f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0046-0023-0004",
+   "short": "R.I. Gen. Laws ch. 46-23.4",
+   "title": "General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-23.4: Act on Coasts - Coastal Resiliency",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE46/46-23.4/INDEX.htm",
+   "versions": [
+    {
+     "from": "2026-08-08",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261029033111/https://webserver.rilegislature.gov/Statutes/TITLE46/46-23.4/INDEX.htm",
+     "sha256": "9d63b7b4b9ee88751f4350331e9dbfe458ab6db58beefd99907c35d616cd16f8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0046-0033",
+   "short": "R.I. Gen. Laws ch. 46-33",
+   "title": "General Laws of Rhode Island, Title 46 (Waters and Navigation), Chapter 46-33: Freshwater Lake Management Program",
+   "url": "https://webserver.rilegislature.gov/Statutes/TITLE46/46-33/INDEX.htm",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250627210446/https://webserver.rilegislature.gov/Statutes/TITLE46/46-33/INDEX.htm",
+     "sha256": "b10ba94aceb176f8cba474a3784c4735c0dc0645289c938120ce60e50645eda5"
     }
    ]
   }
